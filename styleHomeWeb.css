@@ -29,10 +29,10 @@ body{
     overflow: hidden;
 }
 .container{
-    width: 1372px;
+    width: 1400px;
     height: 600px;
     position: absolute;
-    top:58%;
+    top:60%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
