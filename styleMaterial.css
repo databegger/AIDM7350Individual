@@ -294,7 +294,7 @@ button {
 
 .img4 {
     position: absolute;
-    transform: translate(175%, 495%) scale(1);
+    transform: translate(175%, 510%) scale(1);
     display: inline-block;
 }
 .img4 img {
@@ -334,7 +334,7 @@ button {
 
 .img5 {
     position: relative;
-    transform: translate(-10%, 190%) scale(0.7);
+    transform: translate(-10%, 205%) scale(0.7);
     display: inline-block;
 }
 .img5 img {
@@ -377,11 +377,11 @@ button {
     font-size: 50px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(105, 102, 102);
-    transform: translate(175%, 1015%);
+    transform: translate(175%, 1030%);
 }
 
 .gallery {
-    margin-top: 1130px;
+    margin-top: 1145px;
     margin-left: 1200px;
     position: absolute;
   } 
